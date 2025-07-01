@@ -1,0 +1,26 @@
+Filename,Date,Metadata,Ref_series,Ref_start,Ref_end
+DWD_BerlinDahlem_18760101_20231231_00403.txt,2012-10-01,,Tempelhof|Magdeburg|Potsdam,1997-08-01,2023-12-31
+DWD_BerlinDahlem_18760101_20231231_00403.txt,1997-08-01,New barometer type,Tempelhof|Magdeburg|Leipzig,1971-01-01,2012-09-30
+DWD_BerlinDahlem_18760101_20231231_00403.txt,1950-01-01,Relocation,Dahlem|Tempelhof,1945-11-01,1956-12-31
+DWD_BerlinDahlem_18760101_20231231_00403.txt,1908-01-01,,Potsdam|Magdeburg|Jena|Waren|Görlitz,1901-01-01,1926-12-31
+DWD_BerlinDahlem_18760101_20231231_00403.txt,1901-01-01,,Leipzig|Magdeburg|Jena,1887-01-01,1907-12-31
+DWD_BerlinDahlem_18760101_20231231_00403.txt,1887-01-01,,Leipzig|Magdeburg|Jena,1883-01-01,1900-12-31
+DWD_BerlinDahlem_18760101_20231231_00403.txt,1883-01-01,,Leipzig|Jena,1876-01-01,1886-12-31
+Jena_18240101-19401231_p_daily.tsv,1878-07-01,Data gap,DeBilt|Gdansk|Leipzig|Prague,1838-01-01,1899-12-31
+Jena_18240101-19401231_p_daily.tsv,1838-01-01,,DeBilt|Gdansk|Karlsruhe|Lund|Prague,1830-07-01,1849-12-31
+Jena_18240101-19401231_p_daily.tsv,1830-07-01,,DeBilt|Gdansk|Karlsruhe|Lund|Prague,1824-01-01,1837-12-31
+PALAEO-RA_Berlin_Gronau_17750101-18011015_p.tsv,1794-05-01,,Lund|Prague,1794-02-01,1799-12-31
+PALAEO-RA_Berlin_Gronau_17750101-18011015_p.tsv,1794-02-01,,Lund|Prague,1786-01-01,1799-12-31
+PALAEO-RA_Berlin_Gronau_17750101-18011015_p.tsv,1785-07-23,Data gap,Palatine-Society_Berlin|Erfurt|Zagan|Mannheim|Copenhagen,1784-01-01,1793-12-31
+PALAEO-RA_Berlin_Gronau_17750101-18011015_p.tsv,1783-10-01,,Palatine-Society_Berlin|Erfurt|Zagan|Mannheim|Copenhagen,1775-01-01,1785-06-30
+PALAEO-RA_Berlin_Gronau_17750101-18011015_p.tsv,1783-01-01,,Palatine-Society_Berlin|Erfurt|Zagan|Mannheim|Copenhagen,1780-08-01,1785-06-30
+PALAEO-RA_Berlin_Gronau_17750101-18011015_p.tsv,1780-08-01,,Basel|DeBilt|Franeker,1775-01-01,1783-09-30
+WEAR_Berlin_Brand_17601201_17941227_p_daily.tsv,1785-01-01,,Palatine-Society_Berlin|Erfurt|Zagan|Mannheim|Copenhagen,1780-08-01,1794-12-31
+WEAR_Berlin_Brand_17601201_17941227_p_daily.tsv,1780-08-01,,Basel|DeBilt|Vienna,1773-08-01,1784-12-31
+WEAR_Berlin_Brand_17601201_17941227_p_daily.tsv,1773-08-01,,Basel|DeBilt|Padova,1765-01-01,1780-07-31
+PALAEO-RA_Berlin_Lambert_17691216-17770925_p.tsv,1775-11-01,,London|Paris|Vienna,1771-01-01,1777-09-25
+PALAEO-RA_Europe_Berlin_1_17210123-17740430_p_daily.tsv,1765-09-01,Relocation,London|Padova|Paris,1761-04-01,1780-12-31
+PALAEO-RA_Europe_Berlin_1_17210123-17740430_p_daily.tsv,1761-04-01,,Berlin_Brand|London|Padova|Paris,1760-12-01,1765-08-31
+PALAEO-RA_Europe_Berlin_1_17210123-17740430_p_daily.tsv,1760-10-22,,London|Padova|Paris,1755-12-01,1765-08-31
+PALAEO-RA_Kanold_Loebau_17200101-17300630_p_daily.tsv,1727-07-01,,London|Padova|Uppsala,1725-01-01,1730-06-30
+PALAEO-RA_Europe_Berlin_1_17210123-17740430_p_daily.tsv,1722-01-01,,London,1720-01-01,1759-12-31
